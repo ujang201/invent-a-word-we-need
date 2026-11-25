@@ -1,0 +1,7 @@
+Invent a new English word for a feeling everyone knows but no word names, and define it in one clear line of at most 140 characters.
+
+The word should fill a real gap: something a reader recognises at once from their own life. It must be sayable, spellable and memorable — it should sound like English could have grown it — and the definition must land in one reading, with no second sentence and no example.
+
+My coinage: "showergument" — the argument you finally win in the shower, hours after losing it in real life. A blend of "shower" and "argument": the comeback you only think of under hot water, when the conversation is already over.
+
+Write the entry as a TypeScript program (main.ts) that assembles the word and its definition from parts, checks the gate (1–140 characters, single line, not whitespace-only), and writes the finished line to /output/entry.txt. Keep the program deterministic and self-contained.
